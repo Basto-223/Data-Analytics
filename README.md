@@ -1,11 +1,5 @@
 Este es un laboratorio donde se analizan datos de una empresa que se didica a la reparación de automoviles y ventas de piezas.
 
-# Taller MC
-
-<p align="center">
-  <img src="screenshots/" width="1000">
-</p>
-
 ## Descripción
 
 Laboratorio práctico donde se analizan datos sobre tipos de reparaciones frecuentes, partes de autos más vendidas, marcas de autos más frecuentes en el taller, mécanicos con mayor reparaciones y más.
