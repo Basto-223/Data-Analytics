@@ -48,7 +48,7 @@ Para esta prueba se utilizó Hydra junto con un diccionario de contraseñas para
 Mostraremos el desemepeño de los mecánicos, usando metricas como el total de reparaciones en el año, el tipo de reparación que hicieron y cuanto generaron para la empresa.
 
 <p align="center">
-  <img src="mechanics.png" width="900">
+  <img src="screenshots/mechanics.png" width="900">
 </p>
 
 ---
