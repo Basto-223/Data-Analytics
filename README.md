@@ -57,7 +57,7 @@ Mostraremos el desemepeño de los mecánicos, usando metricas como el total de r
 
 Veremos información sobre las ventas totales por tipo de pieza, y cuanto porcentaje de las ventas representa.
 
-![sales](screenshots/spareSales.png)
+![sales](screenshots/spareSSales.png)
 
 ---
 
@@ -66,7 +66,7 @@ Veremos información sobre las ventas totales por tipo de pieza, y cuanto porcen
 Con el objetivo de identificar las reparaciones más comunes se crea esta hoja de analisis
 
 
-![repair](screenshots/reparaciones.png)
+![repair](screenshots/Reparaciones.png)
 
 ---
 
