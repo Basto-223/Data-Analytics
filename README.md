@@ -57,7 +57,7 @@ Mostraremos el desemepeño de los mecánicos, usando metricas como el total de r
 
 Veremos información sobre las ventas totales por tipo de pieza, y cuanto porcentaje de las ventas representa.
 
-![sales](screenshots/spareSSales.png)
+![sales](screenshots/sparesSales.png)
 
 ---
 
