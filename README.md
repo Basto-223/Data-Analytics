@@ -149,7 +149,7 @@ Los dashboards permiten analizar la información mediante filtros por:
 | Tipo de reparación más frecuente | Reemplazo de discos de freno |
 | Total de ganancia | 91,59 Mil |
 | Coste promedio por reparación | 3,05 Mil |
-| Ganancia por año |
+
 
 
 > **Nota:** Los datos utilizados en este proyecto fueron generados sintéticamente con fines educativos y de demostración. Los resultados representan el comportamiento del conjunto de datos simulado y no estadísticas reales de un taller automotriz.
